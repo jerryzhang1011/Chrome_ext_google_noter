@@ -4,4 +4,4 @@ To add this extension:
 
 Click "Code" -> Download zip file -> extract zip file -> go to link "chrome://extensions/" in chrome
 
--> click "Load unpacked" (Left top conner) -> Select the file -> there you go!!
+-> click "Load unpacked" (Left top conner) -> Select the file -> Open "Leads tracker" in chrome -> there you go!!
